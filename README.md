@@ -2,7 +2,9 @@
 
 CueDeck is show-control software for theatre, concerts and events. Line up sounds, videos, pictures and announcements as cues, press **GO** (or a key, a MIDI pad, a phone, a Stream Deck) and it plays them. It works offline and is free to try during the beta.
 
-This repository only holds the downloads and a place to report problems. The source code is private.
+This repository only holds the downloads and a place to report problems. The source code is private. (The **Source code** links GitHub adds to every release just contain this page, not CueDeck itself.)
+
+**Made with Claude:** CueDeck was designed by a working audio engineer and built with [Claude](https://claude.ai), Anthropic's AI assistant.
 
 ## Download
 
