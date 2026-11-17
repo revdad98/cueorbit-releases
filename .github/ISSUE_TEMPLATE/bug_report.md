@@ -1,12 +1,12 @@
 ---
 name: Bug report
-about: Something in CueDeck isn't working
+about: Something in CueOrbit isn't working
 title: ""
 labels: bug
 assignees: ""
 ---
 
-**CueDeck version** (shown in Help):
+**CueOrbit version** (shown in Help):
 
 **Computer** (Mac or Windows, and the version, e.g. macOS 14 / Windows 11):
 
